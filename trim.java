@@ -1,11 +1,5 @@
 
 
-/**
- * @author P1330080
- * 
- *         Author : SEET HING LONG DATE : 24 OCT 2020
- * 
- */ 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
